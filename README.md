@@ -9,7 +9,9 @@ Remove items from the cart.
 Display the total price of items in the cart.
 
 1.HTML Structure
+
   Key Sections
+  
   Header: Contains the logo and navigation links.
   Cart Section 1: Displays available products.
   Cart Section 2: Shows selected items, quantities, and total price.
